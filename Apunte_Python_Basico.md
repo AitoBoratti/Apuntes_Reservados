@@ -51,13 +51,13 @@ Todas las operaciones booleanas pueden ser anidadas de AND, OR, e incluso NOT pa
 ### El if es la forma mas basica de controlar el flujo de un programa, en caso de cumplir una condicion, accedera a ella. En caso de ser falso, se evaluara la siguiente, o se ira al else.
 ```py
     if (condicion):
-    verdadera.
+            verdadera.
 
     elif (nueva condicion):
-    segunda condicion verdadera.
+            segunda condicion verdadera.
 
     else
-    falsa:
+            falsa:
 ```
 ### El match (o case) sirve para evaluar condiciones de forma similar al if, pero es usado para evaluar el valor de un unico dato que puede tomar muchas opciones ( >4)
 ```py
