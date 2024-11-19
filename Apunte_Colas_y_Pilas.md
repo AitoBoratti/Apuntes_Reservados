@@ -5,7 +5,7 @@
         
         def __init__(self):
             self.ls = []
-            self.last_element = lambda : self.ls[len(self.ls)-1]   # Funcion lamda, puede ser remplazada por una funcion normal.
+            self.last_element = lambda : self.ls[-1]   # Funcion lamda, puede ser remplazada por una funcion normal.
         
             
         def push(self,element):                                    # Tipicamente, se usa el comando "push(elemento)" para añadir a la estructura
