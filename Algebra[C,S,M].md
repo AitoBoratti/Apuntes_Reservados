@@ -84,7 +84,8 @@ Una **matriz** es un arreglo rectangular de números dispuestos en filas y colum
 
 - **Ejemplo** de matriz \( 2 \times 3 \):
 
-$$A = \begin{pmatrix} 1 & 2 & 3 \\4 & 5 & 6 \end{pmatrix}$$
+$$A = \begin{pmatrix} 1 & 2 & 3 \\
+4 & 5 & 6 \end{pmatrix}$$
 
 ### 2. Operaciones Básicas con Matrices
 
